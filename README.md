@@ -1,6 +1,6 @@
-# Biblioteca de Operaciones de Archivos en Java
+#  Operaciones de Archivos en Java
 
-La **Biblioteca de Operaciones de Archivos en Java** proporciona una variedad de funciones para manipular archivos de texto, incluyendo lectura, escritura, copia, movimiento, creación y eliminación de archivos.
+ ** Operaciones de Archivos en Java** proporciona una variedad de funciones para manipular archivos de texto, incluyendo lectura, escritura, copia, movimiento, creación y eliminación de archivos.
 
 ## Funcionalidades
 
@@ -24,9 +24,10 @@ Para usar esta biblioteca en tu proyecto Java, puedes agregar el archivo JAR a t
 
    public class Main {
        public static void main(String[] args) {
-           FileOperations fileOps = new FileOperations();
+           mmanej0A fileOps = new manej0A();
            fileOps.lector("archivo.txt");
            fileOps.escribir("nuevoArchivo.txt", "Contenido a escribir en el archivo.");
            // ... otros usos de la biblioteca
        }
-   }
+   ```
+
